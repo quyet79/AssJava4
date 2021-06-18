@@ -1,0 +1,11 @@
+eclipse.preferences.version=1
+encoding//src/main/java/edu/poly/dao/SanPhamDAO.java=UTF-8
+encoding//src/main/java/edu/poly/dao/UserDAO.java=UTF-8
+encoding//src/main/java/edu/poly/servlet/LikeProductServlet.java=UTF-8
+encoding//src/main/java/edu/poly/servlet/LoginServlet.java=UTF-8
+encoding//src/main/java/edu/poly/servlet/ProductServlet.java=UTF-8
+encoding//src/main/java/edu/poly/servlet/SignUpServlet.java=UTF-8
+encoding//src/main/java/edu/poly/servlet/URInavbarServlet.java=UTF-8
+encoding//src/main/java/edu/poly/servlet/UserServlet.java=UTF-8
+encoding//src/main/java/edu/poly/utils/CookieUtils.java=UTF-8
+encoding//src/main/java/edu/poly/utils/SessionUtils.java=UTF-8
